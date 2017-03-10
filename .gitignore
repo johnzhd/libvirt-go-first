@@ -1,0 +1,9 @@
+**/.vscode
+**/.vs
+**/.svn
+
+**/debug/
+**/release/
+
+**/**.bak
+**/**~
